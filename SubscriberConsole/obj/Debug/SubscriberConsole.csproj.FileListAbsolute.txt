@@ -1,0 +1,7 @@
+C:\Users\shbha\GitRepo\BroadcastMessage\SubscriberConsole\bin\Debug\SubscriberConsole.exe.config
+C:\Users\shbha\GitRepo\BroadcastMessage\SubscriberConsole\bin\Debug\SubscriberConsole.exe
+C:\Users\shbha\GitRepo\BroadcastMessage\SubscriberConsole\bin\Debug\SubscriberConsole.pdb
+C:\Users\shbha\GitRepo\BroadcastMessage\SubscriberConsole\obj\Debug\SubscriberConsole.csprojResolveAssemblyReference.cache
+C:\Users\shbha\GitRepo\BroadcastMessage\SubscriberConsole\obj\Debug\SubscriberConsole.csproj.CoreCompileInputs.cache
+C:\Users\shbha\GitRepo\BroadcastMessage\SubscriberConsole\obj\Debug\SubscriberConsole.exe
+C:\Users\shbha\GitRepo\BroadcastMessage\SubscriberConsole\obj\Debug\SubscriberConsole.pdb

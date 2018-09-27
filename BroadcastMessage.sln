@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "broadcastserver", "broadcastserver\broadcastserver.csproj", "{11553809-9DE0-4AE0-A6F1-C9C1C891A16D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubscriberConsole", "SubscriberConsole\SubscriberConsole.csproj", "{E5F050B4-BDEC-4FA4-963D-348666EF9A3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11553809-9DE0-4AE0-A6F1-C9C1C891A16D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11553809-9DE0-4AE0-A6F1-C9C1C891A16D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11553809-9DE0-4AE0-A6F1-C9C1C891A16D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11553809-9DE0-4AE0-A6F1-C9C1C891A16D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5F050B4-BDEC-4FA4-963D-348666EF9A3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F050B4-BDEC-4FA4-963D-348666EF9A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F050B4-BDEC-4FA4-963D-348666EF9A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F050B4-BDEC-4FA4-963D-348666EF9A3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CB40387-C709-49C3-BDA6-85A1F5A7F86A}
+	EndGlobalSection
+EndGlobal

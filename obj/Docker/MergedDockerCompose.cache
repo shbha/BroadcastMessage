@@ -1,0 +1,13 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  broadcastserver:
+    build:
+      context: C:\Users\shbha\GitRepo\BroadcastMessage\BroadcastServer
+      dockerfile: Dockerfile
+    image: broadcastserver
+    ports:
+    - 80/tcp
+version: '3.0'
